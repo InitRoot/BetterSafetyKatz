@@ -27,5 +27,5 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: BetterSafetyKatz
-        path: "./_build"
+        path: "D:/a/BetterSafetyKatz/BetterSafetyKatz/SafetyKatz/bin/"
  
