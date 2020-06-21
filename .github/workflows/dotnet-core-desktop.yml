@@ -23,4 +23,9 @@ jobs:
     - name: Build and Publish Web App
       run: msbuild BetterSafetyKatz.sln /p:Configuration=Release /p:DeployOnBuild=true /p:PublishProfile=FolderProfile
  
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: BetterSafetyKatz
+        path: "./_build"
  
