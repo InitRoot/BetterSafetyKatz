@@ -12,7 +12,7 @@ Stolen from @harmj0y, @TheRealWover, @cobbr_io and @gentilkiwi, repurposed by @F
 
 [@harmj0y](https://twitter.com/harmj0y) is the primary author of the port that this repo is forked from.
 
-BetterSafetyKatz is licensed under the BSD 3-Clause license.
+BetterSafetyKatz is licensed under the BSD 3-Clause license.  
 
 ## Detected?
 
